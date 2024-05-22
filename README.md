@@ -1,3 +1,3 @@
 # Random-Implementations
 
-In this repository you find random "things" I implement. Mostly, small ones.
+In this repository you find random stuff I implement. Mostly, small ones.

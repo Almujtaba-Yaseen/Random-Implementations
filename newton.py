@@ -4,7 +4,6 @@ import math
 def f(x):
     M = 7 #change this value as needed
     f_x = x - 0.01 * math.sin(x) - M
-
     return f_x
 
 
@@ -14,7 +13,6 @@ def derivative_f(x):
     h = 0.001
     x_plus_h = x + h
     df_x = (f(x_plus_h) - f(x)) / h
-    
     return df_x
 
 
